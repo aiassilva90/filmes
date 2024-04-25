@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.movie-title {
+  max-width: 200px; /* Defina a largura máxima adequada para seus títulos */
+  word-break: break-all; /* Força a quebra de palavra */
+}
